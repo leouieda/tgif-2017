@@ -7,10 +7,14 @@ TGIF Seminar given at the
 of the University of Hawaii at Manoa
 on March 10, 2017.
 
-This repository contains the LibreOffice document for the slides and the
+This repository contains the source code examples used in the demo and the
 original figures.
 
 To see the slides and additional information go to: **link to website**
+
+The color palette used in the presentation is
+[SCREAM! by rubyvillasenor](http://www.colourlovers.com/palette/1529379/SCREAM!).
+
 
 ## Abstract
 
@@ -32,3 +36,6 @@ data processing and I/O, and regularization. I’ll also show how I used this
 library to develop a computationally efficient [method for estimating the Moho
 depth from gravity data using a spherical approximation of the
 Earth](http://www.leouieda.com/papers/paper-moho-inversion-tesseroids-2016.html).
+
+
+
