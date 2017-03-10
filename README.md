@@ -12,8 +12,13 @@ original figures.
 
 To see the slides and additional information go to: **link to website**
 
-The color palette used in the presentation is
-[SCREAM! by rubyvillasenor](http://www.colourlovers.com/palette/1529379/SCREAM!).
+The Jupyter notebooks used in the demos are:
+
+* Magnetic data processing: [demo-mag-data.ipynb]() (in this repository)
+* The total field magnetic anomaly: [6-igrf-anomalia-campo-total.ipynb](http://nbviewer.ipython.org/github/leouieda/geofisica1/blob/master/notebooks/6-igrf-anomalia-campo-total.ipynb)
+* Introduction to seismic waves: [1-ondas-sismicas.ipynb](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/1-ondas-sismicas.ipynb)
+  (use [this link](http://mybinder.org/repo/leouieda/geofisica2/notebooks/notebooks/1-ondas-sismicas.ipynb)
+  to run the code online)
 
 
 ## Abstract
@@ -38,4 +43,10 @@ depth from gravity data using a spherical approximation of the
 Earth](http://www.leouieda.com/papers/paper-moho-inversion-tesseroids-2016.html).
 
 
+## License
 
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This content is licensed under a
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+The color palette used in the presentation is
+[SCREAM! by rubyvillasenor](http://www.colourlovers.com/palette/1529379/SCREAM!).
