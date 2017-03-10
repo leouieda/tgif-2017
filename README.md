@@ -10,11 +10,13 @@ on March 10, 2017.
 This repository contains the source code examples used in the demo and the
 original figures.
 
-To see the slides and additional information go to: **link to website**
+Slides and additional information:
+[leouieda.com/talks/tgif-2017.html](http://www.leouieda.com/talks/tgif-2017.html)
 
 The Jupyter notebooks used in the demos are:
 
-* Magnetic data processing: [demo-mag-data.ipynb]() (in this repository)
+* Magnetic data processing: [demo-mag-data.ipynb](http://nbviewer.jupyter.org/github/leouieda/tgif-2017/blob/master/demo-mag-data.ipynb)
+  (in this repository)
 * The total field magnetic anomaly: [6-igrf-anomalia-campo-total.ipynb](http://nbviewer.ipython.org/github/leouieda/geofisica1/blob/master/notebooks/6-igrf-anomalia-campo-total.ipynb)
 * Introduction to seismic waves: [1-ondas-sismicas.ipynb](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/1-ondas-sismicas.ipynb)
   (use [this link](http://mybinder.org/repo/leouieda/geofisica2/notebooks/notebooks/1-ondas-sismicas.ipynb)
