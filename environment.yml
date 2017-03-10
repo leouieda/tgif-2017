@@ -1,0 +1,16 @@
+name: tgif-demo
+channels:
+    - defaults
+    - conda-forge
+dependencies:
+    - python=2.7
+    - numpy
+    - scipy
+    - matplotlib
+    - jupyter
+    - numba
+    - future
+    - pillow
+    - pip
+    - pip:
+        - https://github.com/fatiando/fatiando/archive/master.zip

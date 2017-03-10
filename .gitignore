@@ -1,3 +1,5 @@
 *~
 *.swp
 .~lock*
+.env
+.ipynb_checkpoints
